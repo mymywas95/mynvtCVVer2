@@ -1,0 +1,14 @@
+.row {
+  @include prefix(display, flex);
+}
+
+@for $i from 1 through 12 {
+  .col-#{$i}{
+    @include prefix(flex, 0 0 (100%/$i));
+    max-width: 100%/$i;
+  }
+}
+
+.container-fuild{
+  width: 100%;
+}
