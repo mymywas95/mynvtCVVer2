@@ -64,5 +64,10 @@ margin: 0 auto;
 }
 
 .image-frame-block {
-  @include imageFrame(1,1);
+   position: relative;
+}
+
+.image-frame-block > *:first-child img {
+    width: 100%;
+    height: auto;
 }
