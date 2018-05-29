@@ -3,6 +3,7 @@ position: relative;
 list-style-type: none;
 width: $image-size;
 padding-bottom: $image-size + $image-change;
+  margin-left: ((100% - $image-size)/2)-1;
 float: left;
 overflow: hidden;
 visibility: hidden;
@@ -23,7 +24,7 @@ transform: skewY(-30deg) rotate(60deg);
 -webkit-backface-visibility: hidden;
 }
 
-.image-block * {
+.image-block .image-item {
 position: absolute;
 visibility: visible;
 }
@@ -38,4 +39,30 @@ margin: 0 auto;
 
 .image-block-fluid{
   width: 100%;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.container{
+  margin: auto;
+  padding: 0;
+  width: $container-size;
+  height: auto;
+  background-color: #fff;
+  border-radius: $border-radius-size;
+  @include prefix(box-shadow, 2px 2px 5px 2px #ada7a7);
+}
+
+.container-block {
+  background-color: #dddddd;
+  padding: $distance-top-content 0;
+}
+
+.content-left{
+  background: $left-backgroud;
+  padding: 20% 0;
+}
+
+.image-frame-block {
+  @include imageFrame(1,1);
 }
