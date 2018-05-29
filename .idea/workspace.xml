@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f362942d-c768-430e-accc-ddb5d1f94373" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/_resetStyle.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/CV.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/indexOld.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/_grid.scss" afterPath="$PROJECT_DIR$/assets/css/_grid.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/css/_index.scss" afterPath="$PROJECT_DIR$/assets/css/_index.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/css/_mixin.scss" afterPath="$PROJECT_DIR$/assets/css/_mixin.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/css/_variable.scss" afterPath="$PROJECT_DIR$/assets/css/_variable.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css.map" afterPath="$PROJECT_DIR$/assets/css/style.css.map" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" afterPath="$PROJECT_DIR$/assets/css/style.scss" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            <state relative-caret-position="113">
+              <caret line="9" column="77" lean-forward="false" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -557,12 +547,20 @@
       <workItem from="1520767983093" duration="184000" />
       <workItem from="1521213346592" duration="58000" />
       <workItem from="1522595509821" duration="815000" />
-      <workItem from="1527609219534" duration="539000" />
+      <workItem from="1527609219534" duration="1215000" />
     </task>
+    <task id="LOCAL-00001" summary="update cv">
+      <created>1527609818631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527609818631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8358000" />
+    <option name="totallyTimeSpent" value="9034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -603,6 +601,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="update cv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -730,6 +732,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -783,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        <state relative-caret-position="113">
+          <caret line="9" column="77" lean-forward="false" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
           <folding />
         </state>
       </provider>
